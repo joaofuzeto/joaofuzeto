@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá! Eu sou João Fuzeto 👋
 
-<!--
-**joaofuzeto/joaofuzeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu tenho 23 anos, sou brasileiro, moro em Portugal e estou realizando transição de carreira com o objetivo de atuar na área de **Desenvolvimento Backend**. Atualmente, estou me dedicando ao máximo nos **estudos** em busca da minha *primeira oportunidade* no mercado de trabalho 🚀.
 
-Here are some ideas to get you started:
+Curto praticar exercícios físicos 🏋️‍♂️, assistir séries 🎥 e ouvir podcasts 🎧.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+É um prazer poder contribuir nesse mundo chamado Tecnologia!
+```
+
+<div>
+  <a href= "https://www.linkedin.com/in/joao-fuzeto" target= "_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href= "https://www.instagram.com/joaofuzeto_" target= "_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
