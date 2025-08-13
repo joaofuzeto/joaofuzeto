@@ -10,16 +10,14 @@ Curto praticar exercícios físicos 🏋️‍♂️, assistir séries 🎥 e ou
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas | Backend Java | Buscando estágio/júnior
 
-<div align="center">
-  ### 🚀 Tecnologias que venho estudando
+  ## 🚀 Tecnologias que venho estudando
 
-  	<img src= https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)>
+  	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
     ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)    
-</div>
 
 <div>
   <a href= "https://www.linkedin.com/in/joao-fuzeto" target= "_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
