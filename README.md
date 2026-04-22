@@ -1,6 +1,6 @@
 # Olá! Eu sou João Fuzeto 👋
 
-Eu tenho 26 anos, sou brasileiro,  estou realizando transição de carreira com o objetivo de atuar na área de **Desenvolvimento Backend**. Atualmente, estou me dedicando ao máximo nos **estudos** em busca da minha *primeira oportunidade* no mercado de trabalho 🚀.
+Eu tenho 27 anos, sou brasileiro,  estou realizando transição de carreira com o objetivo de atuar na área de **Desenvolvimento Backend**. Atualmente, estou me dedicando ao máximo nos **estudos** em busca da minha *primeira oportunidade* no mercado de trabalho 🚀.
 
 Curto praticar exercícios físicos 🏋️‍♂️, assistir séries 🎥 e ouvir podcasts 🎧.
 
